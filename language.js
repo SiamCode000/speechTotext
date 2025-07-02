@@ -347,4 +347,10 @@ const languages = [
       native: "ייִדיש",
       code: "yi",
     },
+        {
+      "no": "59",
+      "name": "Bengali",
+      "native": "বাংলা",
+      "code": "bn"
+    }
   ];
